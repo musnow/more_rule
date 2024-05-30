@@ -99,7 +99,5 @@ payload:
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.common
   - DOMAIN,sugar.zhihu.com
-  ##抖音
-  - DOMAIN-SUFFIX,
   ##附加
   - DOMAIN,assets.mediacandy.ai
