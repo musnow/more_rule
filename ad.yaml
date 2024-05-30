@@ -1,0 +1,105 @@
+payload:
+  ## QQ音乐
+  - DOMAIN,p6-ad-sign.byteimg.com
+  - DOMAIN,adstats.tencentmusic.com
+  - DOMAIN,ad.tencentmusic.com
+  - DOMAIN,adcdn.tencentmusic.com
+  - DOMAIN,adexpo.tencentmusic.com
+  - DOMAIN,adclick.tencentmusic.com
+  - DOMAIN,otheve.beacon.qq.com
+  - DOMAIN,monitor.music.qq.com
+  - DOMAIN,stat.y.qq.com
+  - DOMAIN,tmead.y.qq.com
+  - DOMAIN,oth.str.mdt.qq.com
+  - DOMAIN,h.trace.qq.com
+  - DOMAIN,tmead.y.qq.com
+  - DOMAIN-SUFFIX,imtmp.net
+  - DOMAIN,sdk.e.qq.com
+  - DOMAIN,p.l.qq.com
+  - DOMAIN,us.l.qq.com
+  - DOMAIN,tangram.e.qq.com
+  ##优酷
+  - DOMAIN-SUFFIX,cp31.ott.cibntv.net
+  ##腾讯
+  - DOMAIN-SUFFIX,tetrack.qq.com
+  - DOMAIN-SUFFIX,tpns.tencent.com
+  - DOMAIN-SUFFIX,api.poll.video.qq.com
+  - DOMAIN-SUFFIX,static-res.qq.com
+  - DOMAIN-SUFFIX,stat.tpns.tencent.com
+  - DOMAIN,h.trace.qq.com
+  - DOMAIN,h.trace.qq.com
+  ##爱奇艺
+  - DOMAIN,cr-status.iqiyi.com
+  - DOMAIN-SUFFIX,cupid.iqiyi.com
+  - DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn
+  - DOMAIN,ef-dongfeng.tanx.com
+  - DOMAIN,iqiyim.adtrack.enlightent.cn
+  ##小说广告
+  - DOMAIN,i.snssdk.com
+  - DOMAIN,i-lq.snssdk.com
+  - DOMAIN,dig.bdurl.net
+  - DOMAIN,api-access.pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,xwuad.com
+  - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
+  - DOMAIN-SUFFIX,render.shuqireader.com
+  - DOMAIN-SUFFIX,ali-stats.jpush.cn
+  - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+  - DOMAIN-SUFFIX,sdk.kaijia.com
+  - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
+  - DOMAIN,is.snssdk.com
+  - DOMAIN-SUFFIX,mituyuedu.com
+  - DOMAIN,img.allahall.com
+  - DOMAIN,img.dailmo.com
+  - DOMAIN,img.img.hbssdlcl.com
+  - DOMAIN,activation.crossutility.com
+  - DOMAIN,bid.adview.cn
+  ##其他广告
+  - DOMAIN-SUFFIX,amdc.m.taobao.com
+  - DOMAIN-SUFFIX,iyes.youku.com
+  - DOMAIN-SUFFIX,sq.sljkj.com
+  - DOMAIN-SUFFIX,s2s.adjust.com
+  - DOMAIN,app.zhoudamozi.com
+  - DOMAIN-SUFFIX,youzibank.com
+  - DOMAIN,book.jieshengdz.com
+  - DOMAIN,tttxt.douyinxiaocx.com
+  - DOMAIN,dm.bytedance.com
+  - DOMAIN,ap.cpatrk.net
+  - DOMAIN,ads.api.vungle.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN,adservice.google.com
+  - DOMAIN,api.vungle.com
+  - DOMAIN-SUFFIX,rayjump.com
+  - DOMAIN,nadvideo2.baidu.com
+  - DOMAIN,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
+  - DOMAIN,adjd.scdsvdsczx.cn
+  - DOMAIN,rr3---sn-ni57rn7d.gvt1.com
+  - DOMAIN,pagead2.googleadservices.com
+  - DOMAIN,ehg-youtube.hitbox.com
+  ##qq空间
+  - DOMAIN,d3g.qq.com
+  - DOMAIN,bsrv.qq.com
+  - DOMAIN,sq.bls.mdt.qq.com
+  - DOMAIN,adsmind.gdtimg.com
+  - DOMAIN,xj-landing.gdtimg.com
+  ##高德地图
+  - DOMAIN,optimus-ads.amap.com
+  ##百度贴吧
+  - DOMAIN,aod-image.baidu.com
+  - DOMAIN,js-ad.a.yximgs.com
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
+  - DOMAIN,nadvideo2.baidu.com
+  #百度输入法
+  - DOMAIN-KEYWORD,jomodns
+  - DOMAIN,res.mi.baidu.com
+  - DOMAIN,r6.mo.baidu.com
+  ##知乎
+  - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,mqtt.zhihu.common
+  - DOMAIN,sugar.zhihu.com
+  ##抖音
+  - DOMAIN-SUFFIX,
+  ##附加
+  - DOMAIN,assets.mediacandy.ai
