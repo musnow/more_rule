@@ -42,7 +42,9 @@ payload:
   - DOMAIN-SUFFIX, cdn-ws.content.steamchina.com
   - DOMAIN-SUFFIX, steampowered.com.8686c.com
   - DOMAIN-SUFFIX, steamstatic.com.8686c.com
-  - DOMAIN-KEYWORD, steamstore
-  - DOMAIN-KEYWORD, steamuserimages
-  - DOMAIN-KEYWORD, steambroadcast
+  #- DOMAIN-KEYWORD, steamstore
+  #- DOMAIN-KEYWORD, steamuserimages
+  #- DOMAIN-KEYWORD, steambroadcast
   - DOMAIN-SUFFIX, yubanmei.com
+  - DOMAIN-KEYWORD, tracker
+  - DOMAIN-KEYWORD, tracker*
